@@ -1,4 +1,4 @@
-const nuxtentModule = require('./dist/module.js')
+const nuxtentModule = require('./new/module.js')
 
 module.exports = nuxtentModule.default
 module.exports.meta = nuxtentModule.meta
